@@ -1,0 +1,24 @@
+{
+  "name": "Lastwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kutukmu/personalV2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://kutukmu.github.io/personalV2",
+  "bugs": {
+    "url": "https://github.com/kutukmu/personalV2/issues"
+  },
+  "homepage": "https://github.com/kutukmu/personalV2#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
