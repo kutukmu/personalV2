@@ -879,7 +879,7 @@ main .section-header {
 .resume-icon {
   position: absolute;
   top: 2rem;
-  left: 47%;
+  left: 40%;
   opacity: 0;
   transition: 0.5s ease-out;
 }
